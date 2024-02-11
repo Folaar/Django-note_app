@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : sudheerbaraker/my-note-app:latest
+     image : Folaar/my-note-app:latest
      ports :
          - "8000:8000"
